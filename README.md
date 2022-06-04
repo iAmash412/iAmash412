@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aafthab</h1>
 <h3 align="center">A passionate full-Stack developer currently based in the United Kingdom</h3>
 
-- 🌱 I’m currently learning Python and Django
+- 🌱 I’m currently working on Python-Flask-Backend and React-Frontend Project,
 
 - 👨‍💻 All of my projects are available at [https://github.com/iAmash412?tab=repositories](https://github.com/iAmash412?tab=repositories)
 
