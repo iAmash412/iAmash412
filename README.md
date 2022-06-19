@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aafthab</h1>
 <h3 align="center">A passionate full-Stack developer currently based in the United Kingdom</h3>
 
-- 🌱 I’m currently working on
+- 🌱 I’m currently working on a Gatsby Portfolio Page
 
 -   Most Recent Project Python-Flask-Backend and React-Frontend Project called The.Motive
 
