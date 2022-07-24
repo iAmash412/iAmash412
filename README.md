@@ -1,3 +1,7 @@
+
+![Full Color Dark Night vector retro style youtube video intro and outro (1)](https://user-images.githubusercontent.com/93494471/180668409-34239fbf-5e25-4863-a5c6-28762239d92f.gif)
+
+
 <h1 align="center">Hi 👋, I'm Aafthab</h1>
 <h3 align="center">A passionate full-Stack developer currently based in the United Kingdom</h3>
 
