@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Aafthab, Welcome to my Github</h1>
 <h3 align="center">A passionate full-Stack developer currently based in the United Kingdom</h3>
 
-- 🌱 I’m currently Learing and Working on a Flutter Project
+- 🌱 I’m currently Learning and Working on a Flutter Project
 
 -   Most Recent Project Python-Flask-Backend and React-Frontend Project called The.Motive
 
